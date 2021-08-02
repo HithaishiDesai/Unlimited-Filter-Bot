@@ -76,16 +76,10 @@
 
 [Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
 
-Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
-
-
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
-
-
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Unlimited-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HithaishiDesai/Unlimited-Filter-Bot)
 
 ### Deploy in your vps
 ```sh
@@ -129,8 +123,6 @@ python3 bot.py
 
 * DISCONNECT_COMMAND  -  default will be 'disconnect'
 
-EG;  
-![Vars Eg](https://telegra.ph/file/1f956f3491f2f20a9c1ec.jpg)
 
 ## Credits
 

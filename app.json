@@ -1,16 +1,16 @@
 {
     "name": "UNLIMITED FILTER BOT",
-    "description": "An unlimited filter bot using Mongo DB",
-    "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
+    "description": "An Unlimited Filter Bot using Mongo DB",
+    "logo": "https://telegra.ph/file/8607f9e32487edf2f1345.jpg",
     "keywords": [
         "UNLIMITED",
         "Filter",
         "Telegram Bot",
         "TroJanzHEX"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Unlimited-Filter-Bot",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "website": "https://sites.google.com/view/Hithaishi-Desai",
+    "repository": "https://github.com/HithaishiDesai/Unlimited-Filter-Bot",
+    "success_url": "https://telegram.dog/Hithaishidesai_605",
     "env": {
         "WEBHOOK": {
             "description": "No need to change this field!",
@@ -30,7 +30,7 @@
         },
         "AUTH_USERS": {
             "description": "ID of users that can use the bot commands",
-            "value": ""
+            "value": "1157757479"
         },
         "DATABASE_URI": {
             "description": "Database URL from https://cloud.mongodb.com/",

@@ -248,6 +248,7 @@ async def help(client, message):
                 ],
                 [
                     InlineKeyboardButton("🍿 MOVIE 🍿 Channel", url="https://t.me/Hithaishi_Desai_Movies"),
+                    InlineKeyboardButton("👑 My BOSS 👑", url="https://t.me/Hithaishidesai_605")
                     InlineKeyboardButton("🍿 MOVIE 🍿 Request Group", url="https://t.me/HithaishiMovies_Discussion_Group")
                 ]
             ]

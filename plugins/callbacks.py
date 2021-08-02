@@ -52,7 +52,8 @@ async def cb_handler(client, query):
                 ],
                 [
                     InlineKeyboardButton("🍿 MOVIE 🍿 Channel", url="https://t.me/Hithaishi_Desai_Movies"),
-                    InlineKeyboardButton("🍿 MOVIE 🍿 Channel", url="https://t.me/HithaishiMovies_Discussion_Group")
+                    InlineKeyboardButton("👑 My BOSS 👑", url="https://t.me/Hithaishidesai_605")
+                    InlineKeyboardButton("🍿 MOVIE 🍿 Request Group", url="https://t.me/HithaishiMovies_Discussion_Group")
                 ]
             ]
         )

@@ -51,8 +51,8 @@ async def cb_handler(client, query):
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/TroJanzHEX"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/TroJanzSupport")
+                    InlineKeyboardButton("🍿 MOVIE 🍿 Channel", url="https://t.me/Hithaishi_Desai_Movies"),
+                    InlineKeyboardButton("🍿 MOVIE 🍿 Channel", url="https://t.me/HithaishiMovies_Discussion_Group")
                 ]
             ]
         )
@@ -70,7 +70,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Unlimited-Filter-Bot")
+                        "📜 SOURCE CODE 📜", url="https://github.com/HithaishiDesai/Unlimited-Filter-Bot")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
@@ -122,7 +122,7 @@ async def cb_handler(client, query):
         if (st.status == "creator") or (str(userid) in Config.AUTH_USERS):    
             await del_all(query.message, grp_id, title)
         else:
-            await query.answer("You need to be Group Owner or an Auth User to do that!",show_alert=True)
+            await query.answer("😂 You Are **Not** MY ADMIN ONLY @Hithaishidesai_605 Can Do That😂",show_alert=True)
     
     elif query.data == "delallcancel":
         userid = query.from_user.id

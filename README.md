@@ -19,11 +19,11 @@
   </a>
   </p>
   
-<p align="center">
+  
 [![TroJanz](https://img.shields.io/badge/%F0%9F%8E%AC%F0%9F%8D%BF%20MOVIES%20%F0%9F%8D%BF%F0%9F%8E%AC%20%F0%9F%98%8E%20By,%20Hithaishi%20Desai%20%F0%9F%98%8E-CHANNEL-orange?style=for-the-badge&logo=telegram)](https://telegram.me/Hithaishi_Desai_Movies)  
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![TroJanz](https://img.shields.io/badge/%F0%9F%8E%AC%F0%9F%8D%BF%20MOVIES%20%F0%9F%8D%BF%F0%9F%8E%AC%20Discussion%20%F0%9F%92%AC%20Group-GROUP-red?style=flat&logo=telegram)](https://telegram.me/HithaishiMovies_Discussion_Group)  [![TroJanz](https://img.shields.io/badge/%F0%9F%98%8E%20By,%20Hithaishi%20Desai%20%F0%9F%98%8E-%F0%9F%8C%8D%20WEBSITE%20%F0%9F%8C%8D-red?style=flat&logo=CodersRank)](https://sites.google.com/view/Hithaishi-Desai)
-</p>
+
 ㅤㅤㅤㅤㅤㅤㅤ  
 [![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Unlimited-Filter-Bot/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/HithaishiDesai/Unlimited-Filter-Bot)
 
